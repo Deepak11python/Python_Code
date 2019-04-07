@@ -1,0 +1,14 @@
+import numpy as np
+a1 = np.array([1,2,3])
+a2 = np.array([3,4,5])
+
+print (a1 + a2)
+print (a2 - a1)
+print (a1 + 2)
+print (a1 ** 2)
+print (type(a1))
+print (a1.size)
+print (a1.mean())
+print (a1.max())
+print (a1.min())
+print (dir(a1))
